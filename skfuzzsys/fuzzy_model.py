@@ -15,7 +15,7 @@ class Antecedent(nn.Module):
         :param out_dim: output dimension
         :param num_fuzzy_set: No. of fuzzy sets defined on each feature
         :param mf: membership function, {'Gaussian' (default), 'simplified_Gaussian'}
-        :param frb: fuzzy rule base {'CoCo-FRB' (default), 'FuCo-FRB'}
+        :param frb: fuzzy rule base, {'CoCo-FRB' (default), 'FuCo-FRB'}
         :param tnorm: for computing firing strength, {'prod' (default), 'softmin', 'adasoftmin'}
         :param fea_sel: FS or not, {False (fault), True}
         :param gate_fea: gate function of FS, {'gate1' (default), 'gate2', 'gate3', 'gate_m'}

@@ -1,7 +1,6 @@
 import torch
-from torch import nn, optim
+from torch import optim
 from sklearn import metrics
-from torch.utils.data import TensorDataset, DataLoader
 
 
 def train_full_batch(model_input, model, target_output, learning_rate, max_iter, gpu=False):
