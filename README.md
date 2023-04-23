@@ -9,5 +9,5 @@ functions are embedded into the TSK fuzzy system for feature selection and rule 
 The code requires:
 * python (>= 3.8)
 * torch (>= 1.9.0)
-* numPy (>= 1.22.0)
+* numpy (>= 1.22.0)
 * scikit-learn (>= 1.0.2)
