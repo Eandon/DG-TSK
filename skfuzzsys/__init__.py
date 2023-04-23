@@ -1,5 +1,3 @@
-# -*- coding: UTF-8 -*-
-# G.D.Xue, 2022-03-18, 22:06
 from .fuzzy_model import *
 from .utils import *
 
