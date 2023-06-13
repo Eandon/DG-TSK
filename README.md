@@ -1,4 +1,4 @@
-# DD-TSK model
+# DG-TSK model
 
 This code is an Python implementation of the paper "Double Groups of Gates based 
 Takagi-Sugeno-Kang (DG-TSK) Fuzzy System for Simultaneous Feature Selection and Rule Extraction"
